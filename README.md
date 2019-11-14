@@ -28,8 +28,9 @@ School of Agriculture, University of Buenos Aires, Argentina	**July 2006-Novembe
 ## Research Experience
 
 **Postdoctoral fellow**,	2018-2020
-Darwinion Botanical Institute (IBODA; CONICET) http://www.darwin.edu.ar/ ![IBODA Logo](//Users/eliwasser/Documents/GitHub/CVenglish.jpg)
-Format: ![Alt Text](url)
+Darwinion Botanical Institute (IBODA; CONICET) http://www.darwin.edu.ar/ 
+
+![IBODA](https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png)
 
 >I work with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
 
