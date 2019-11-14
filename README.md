@@ -36,6 +36,9 @@ Darwinion Botanical Institute (IBODA; CONICET) http://www.darwin.edu.ar/
 
 **Doctoral candidate**, 	2012-2017
 Department of Vegetal Production, University of Buenos Aires https://agro.uba.ar/departamentos/biologia
+
+![imagen](https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png)
+
 >I analysed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, causal agent of one of the most important tomato bacterial diseases.
 
 ## Publications
