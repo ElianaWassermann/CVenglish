@@ -24,18 +24,19 @@ School of Agriculture, University of Buenos Aires, Argentina	**July 2006-Novembe
 ## Research Experience
 
 <img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/> 
+http://www.darwin.edu.ar/ 
 
 **Postdoctoral fellow**,	2018-2020
-Darwinion Botanical Institute (IBODA; CONICET) http://www.darwin.edu.ar/ 
+Darwinion Botanical Institute (IBODA; CONICET)
 
 >I work with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
 
 
-<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="100"/> 
+<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/> 
+ https://agro.uba.ar/departamentos/biologia
 
 **Doctoral candidate**, 	2012-2017
-Department of Vegetal Production, University of Buenos Aires https://agro.uba.ar/departamentos/biologia
-
+Department of Vegetal Production, University of Buenos Aires
 >I analysed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, causal agent of one of the most important tomato bacterial diseases.
 
 ## Publications
