@@ -1,7 +1,3 @@
-# Eliana Wassermann
-
-### wasserma@agro.uba.ar
-
 ## Education
 
 **Ph.D. in Agricultural Sciences**, 
