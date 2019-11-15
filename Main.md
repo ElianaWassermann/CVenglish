@@ -27,7 +27,7 @@ School of Agriculture, University of Buenos Aires, Argentina	**July 2006-Novembe
 
 ## Research Experience
 
-<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="150"/> 
+<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/> 
 
 **Postdoctoral fellow**,	2018-2020
 Darwinion Botanical Institute (IBODA; CONICET) http://www.darwin.edu.ar/ 
