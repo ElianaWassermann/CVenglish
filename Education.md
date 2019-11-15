@@ -150,7 +150,7 @@ French: Basic skills
 
 ●	Preparation and Publication of Scientific Papers, 32 hours
 
-●	 Course in gender thematic, 48 hours
+●	Course in gender thematic, 48 hours
 
 
 
