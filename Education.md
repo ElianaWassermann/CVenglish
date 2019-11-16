@@ -31,8 +31,7 @@ Darwinion Botanical Institute (IBODA; CONICET)
 >I work with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
 
 
-<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/> 
- https://agro.uba.ar/departamentos/biologia
+[<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/>](https://agro.uba.ar/departamentos/biologia)
 
 **Doctoral candidate**, 	2012-2017
 Department of Vegetal Production, University of Buenos Aires
