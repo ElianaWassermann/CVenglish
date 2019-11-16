@@ -10,5 +10,22 @@
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
 
 
-.Education {font-size: 36px}
-(https://elianawassermann.github.io/CVenglish/Education)
+[Education](https://elianawassermann.github.io/CVenglish/Education)
+
+[Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
+
+[Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
+
+[Publications](https://elianawassermann.github.io/CVenglish/Publications)
+
+[Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
+
+[Technical skills](https://elianawassermann.github.io/CVenglish/TechnicalSkills)
+
+[Languges](https://elianawassermann.github.io/CVenglish/Languages)
+
+[Graduate courses taken](https://elianawassermann.github.io/CVenglish/GraduateCoursesTaken)
+
+[Administrative activity](https://elianawassermann.github.io/CVenglish/Administrative)
+
+[References](https://elianawassermann.github.io/CVenglish/References)
