@@ -28,7 +28,8 @@ Courses:
 
 ●	Microbiological Techniques Applied To The Study Of Agro-Ecosystems
 
-●	[Human Rights](https://www.agro.uba.ar/GET/ddhh): 2010-continuing
+[Human Rights](https://www.agro.uba.ar/GET/ddhh): 2010-continuing
+●	Human Rights
 
 
 ## Mentoring Experience, 	2016-2017
