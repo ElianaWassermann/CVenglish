@@ -6,7 +6,7 @@ School of Agriculture, University of Buenos Aires.
 
 ## Teaching assistant,	2008-continuing
 
-Department of Applied Biology [link](https://agro.uba.ar/departamentos/biologia)
+[Department of Applied Biology](https://agro.uba.ar/departamentos/biologia)
 
 Courses:
 
