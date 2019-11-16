@@ -20,9 +20,7 @@
 
 [Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
-[Technical skills](https://elianawassermann.github.io/CVenglish/TechnicalSkills)
-
-[Languges](https://elianawassermann.github.io/CVenglish/Languages)
+[Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
 
 [Graduate courses taken](https://elianawassermann.github.io/CVenglish/GraduateCoursesTaken)
 
