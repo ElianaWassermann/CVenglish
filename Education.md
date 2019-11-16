@@ -1,28 +1,25 @@
-## Education
+# Education
 
-**Ph.D. in Agricultural Sciences**, January 2012- March 2017
+## Ph.D. in Agricultural Sciences, January 2012- March 2017
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
 
 Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	
 >Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf)
+
+[Thesis Summary.pdf](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
-**Specialist in Undergraduate Education**
-University of Buenos Aires, Argentina	**June 2013-December 2015**
+## Specialist in Undergraduate Education, June 2013-December 2015
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
 
-**Bachelor / MSc. in Agriculture**
-School of Agriculture, University of Buenos Aires, Argentina	**July 2006-November 2011**
->Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization”
+University of Buenos Aires, Argentina 
 
-## Achievements
-**Postdoctoral grant**	January 2018-December 2019
->National Scientific and Technological Research Council (CONICET)	
+## Bachelor / MSc. in Agriculture, July 2006-November 2011
 
-**PhD finishing grant**	April 2015-March 2017
->National Scientific and Technological Research Council (CONICET)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia)
 
-**PhD starting grant**	January 2012-March 2015
->National Agency of Science and Technology Promotion (MINCyT)
+School of Agriculture, University of Buenos Aires, Argentina
+>Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization” [PDF](http://ri.agro.uba.ar/files/intranet/intensificacion/2011wassermanneliana.pdf)
 
 ## Research Experience
 
