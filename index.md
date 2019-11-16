@@ -14,7 +14,7 @@
 
 [Achievements](https://elianawassermann.github.io/CVenglish-Achivements/)
 
-[Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
+[Research experience](https://elianawassermann.github.io/CVenglish/Research Experience)
 
 [Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
