@@ -1,6 +1,6 @@
 # Achievements
 
-]<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
 
 ## **Postdoctoral grant**	January 2018-December 2019
 National Scientific and Technological Research Council (CONICET)	
