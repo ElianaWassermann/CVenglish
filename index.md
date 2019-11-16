@@ -18,7 +18,7 @@
 
 [Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
-[Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
+[Teaching experience](https://elianawassermann.github.io/CVenglish/)
 
 [Technical skills](https://elianawassermann.github.io/CVenglish/TechnicalSkills)
 
