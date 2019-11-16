@@ -1,8 +1,11 @@
 ## Education
 
-**Ph.D. in Agricultural Sciences**, 
-Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	**January 2012- March 2017**
->Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“
+**Ph.D. in Agricultural Sciences**, January 2012- March 2017
+
+[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
+
+Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	
+>Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf)
 	
 **Specialist in Undergraduate Education**
 University of Buenos Aires, Argentina	**June 2013-December 2015**
