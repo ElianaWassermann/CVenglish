@@ -22,34 +22,6 @@ School of Agriculture, University of Buenos Aires, Argentina
 >Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization” [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf)
 
 
-## Technical Skills
-
-●	Experimental design
-
-●	Statistical analysis
-
-●	Geo-statistics
-
-●	Agricultural and environmental microbiology
-
-●	Cell cultivation
-
-●	Molecular biology
-
-●	Bioinformatics
-
-●	Applied microbiology
-
-●	Software: R team core, statistical software; GelCompar II v. 6.5 (Applied Maths NV); GraphPad Prism, statistical and graphic and analysis; Microsoft Office and Open Office packages; Moodle learning platform
-
-## Languages
-
-Spanish: Mother tongue
-
-English: Advanced skills
-
-French: Basic skills
-
 ## Graduate Courses Taken
 
 ●	Hierarchical Data in Environmental Science: Collection and Analysis in R, 48 hours
