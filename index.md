@@ -12,7 +12,7 @@
 
 [Education](https://elianawassermann.github.io/CVenglish/Education)
 
-[Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
+[Achievements](https://elianawassermann.github.io/CVenglish-Achivements/)
 
 [Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
 
