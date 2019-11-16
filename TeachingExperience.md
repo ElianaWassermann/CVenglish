@@ -1,5 +1,5 @@
 # Teaching experience
-[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="100"/>](https://agro.uba.ar/)
 
 School of Agriculture, University of Buenos Aires.
 
