@@ -7,7 +7,7 @@
 Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	
 >Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf)
 
-[Thesis Summary.pdf](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
+[Thesis Summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
 ## Specialist in Undergraduate Education, June 2013-December 2015
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
