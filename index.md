@@ -9,6 +9,8 @@
 
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
 
+CV summarized [PDF](https://github.com/ElianaWassermann/CVenglish/files/3855764/CV_summaryb.pdf)
+
 
 [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="20"/> Education](https://elianawassermann.github.io/CVenglish/Education)
 
