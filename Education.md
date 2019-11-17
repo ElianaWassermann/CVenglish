@@ -24,6 +24,12 @@ School of Agriculture, University of Buenos Aires, Argentina
 
 ## Graduate Courses Taken
 
+[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="180"/>](https://www.uncoma.edu.ar/)
+
+●	Phylogeograohycal analysis tools, 40 hours
+
+[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
+
 ●	Hierarchical Data in Environmental Science: Collection and Analysis in R, 48 hours
 
 ●	Statistical Methodology, 96 hours
