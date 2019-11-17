@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/>
+
 # Education
 
 ## Ph.D. in Agricultural Sciences, January 2012- March 2017
@@ -50,7 +52,7 @@ School of Agriculture, University of Buenos Aires, Argentina
 
 [<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/CVenglish/)
 
-[<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVenglish/Education)
+
 [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVenglish/Achievements)
 [<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVenglish/ResearchExperience)
 [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVenglish/Publications)
