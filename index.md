@@ -2,7 +2,7 @@
 
 # Eliana Wassermann
 
-<img src="https://media.licdn.com/dms/image/C4E03AQFp9cjDMT-3EQ/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=752Sf2CZrvP28Ly4yqnXox-3FZ8wJvH7DyOK1hnSRuQ" alt="drawing" width="100"/>
+<img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200"/>
 
 ### wasserma@agro.uba.ar
 
