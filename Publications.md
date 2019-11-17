@@ -32,3 +32,7 @@ Logegaray V.; **Wassermann E.**; Sorlino D.; Gelabert C.; Gambino S.; Rositano F
 Sorlino D.; Durand P.; Logegaray V.; Gambino S.; Borsak J.; **Wassermann E.**; Gelabert C.; Rositano F. “Moodle Use In A Human Rights Course At The School Of Agriculture”, Communication and Teaching Technologies Virtual Reunion. Argentina. Buenos Aires. 2012. 
 
 Tosi, M, **Wassermann, E**, Montecchia, MS, Soria, MA, Carbone Carneiro, MA, Correa OS. “Soil Microbial Communities from Argentinian Yungas as Affected by Agricultural Activity”, XLVI Biochemistry and Biological Investigation Argentine Society Annual Reunion. Argentina. Puerto Madryn. ISSN 0327.9545 (Print), ISSN 1667 – 5746 (Electronic) 2010.
+
+[<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
+
+[<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/CVenglish/)
