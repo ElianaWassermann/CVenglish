@@ -2,7 +2,7 @@
 
 # Technical Skills
 
-<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="80"/>
+<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40"/>
 
 ●	Experimental design
 
@@ -25,7 +25,7 @@
 
 # Languages
 
-<img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="80"/>
+<img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="40"/>
 
 
 <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/> Spanish: Mother tongue
