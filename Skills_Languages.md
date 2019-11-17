@@ -28,11 +28,13 @@
 <img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="80"/>
 
 
-Spanish: Mother tongue
+<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/> Spanish: Mother tongue
 
-English: Advanced skills
+<img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> English: Advanced skills
 
-French: Basic skills
+<img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/> French: Basic skills
+
+<img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/> Italian: Basic skills
 
 
 [<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/CVenglish/)
