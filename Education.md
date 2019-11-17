@@ -24,11 +24,11 @@ School of Agriculture, University of Buenos Aires, Argentina
 
 ## Graduate Courses Taken
 
-[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="180"/>](https://www.uncoma.edu.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> COMAHUE National University](https://www.uncoma.edu.ar/)
 
 ●	Phylogeograohycal analysis tools, 40 hours
 
-[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> School of Agriculture, University of Buenos Aires](http://epg.agro.uba.ar/)
 
 ●	Hierarchical Data in Environmental Science: Collection and Analysis in R, 48 hours
 
@@ -41,6 +41,8 @@ School of Agriculture, University of Buenos Aires, Argentina
 ●	Introduction to Molecular Biology, 48 hours
 
 ●	Preparation and Publication of Scientific Papers, 32 hours
+
+[<img src="https://user-images.githubusercontent.com/57723790/69008379-7e44c780-0928-11ea-827a-2dc155a36f52.png" alt="drawing" width="120"/> University of Buenos Aires](http://www.uba.ar/)
 
 ●	Course in gender thematic, 48 hours
 
