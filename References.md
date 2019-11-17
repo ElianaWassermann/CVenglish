@@ -2,12 +2,26 @@
 
 ## Silvana Sede, Independent Researcher
 
-[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/personal/carrera-del-investigador-cientifico-y-tecnologico)
+[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="150"/>](http://www.darwin.edu.ar/personal/carrera-del-investigador-cientifico-y-tecnologico)
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Silvana_Sede)
 
 
 ### Darwinion Botanical Institute (IBODA), National Scientific and Technological Research Council (CONICET)
 (+5411) 4743 4800 ssede@darwin.edu.ar 
+
+## Liliana Giussani, Independent Researcher
+
+[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="150"/>](http://www.darwin.edu.ar/personal/carrera-del-investigador-cientifico-y-tecnologico)
+[<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Liliana_Giussani)
+[Personal site](https://lilianagiussani.wixsite.com/giussani)
+
+### Darwinion Botanical Institute (IBODA), National Scientific and Technological Research Council (CONICET)
+(+5411) 4743 4800 lgiussani@darwin.edu.ar 
+
+
+### Darwinion Botanical Institute (IBODA), National Scientific and Technological Research Council (CONICET)
+(+5411) 4743 4800 ssede@darwin.edu.ar 
+
 
 ## Susana Perelman, Professor and Head of department
 
