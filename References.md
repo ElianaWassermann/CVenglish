@@ -1,7 +1,4 @@
-<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="40"/>
-
-
-# References
+# <img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/> References
 
 ## Silvana Sede, Independent Researcher
 
