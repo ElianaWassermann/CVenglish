@@ -1,6 +1,6 @@
 
 
-# <img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="40"/> Achievements
+# <img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30"/> Achievements
 
 
 ## **Postdoctoral grant**	January 2018-December 2019
