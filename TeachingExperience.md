@@ -1,13 +1,10 @@
-
-<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="40"/>
-
-# Teaching experience
+# <img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="40"/> Teaching experience
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="100"/>](https://agro.uba.ar/)
 
 School of Agriculture, University of Buenos Aires.
 
 
-## Teaching assistant,	2008-continuing
+### Teaching assistant,	2008-continuing
 
 [Department of Applied Biology](https://agro.uba.ar/departamentos/biologia)
 
@@ -36,15 +33,15 @@ Courses:
 ●	Human Rights
 
 
-## Mentoring Experience, 	2016-2017
+### Mentoring Experience, 	2016-2017
 
-### Co-direction of Valeria Soledad Garaventta’s BSc dissertation.
+#### Co-direction of Valeria Soledad Garaventta’s BSc dissertation.
 Title: Evaluation of the aggressiveness of *Clavibacter michiganensis* subsp. *michiganensis*, causing agent of the bacterial canker of tomato, from the horticultural belt of Buenos Aires-La Plata [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854840/2017garaventavaleriasoledad.pdf)
 
-### Taught and supervised four students during undergraduate research projects on bacterial phytopathogenicity studies.	
+#### Taught and supervised four students during undergraduate research projects on bacterial phytopathogenicity studies.	
 
 
-## Administrative Activity
+### Administrative Activity
 
 Coordination of the Dean’s Advisory Committee on Human Rights
 
