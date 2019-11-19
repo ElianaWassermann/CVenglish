@@ -16,9 +16,9 @@
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="50"/>](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf) Summarized CV [PDF](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf)
 
 
+[<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> 
 
-
-### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education  ](https://elianawassermann.github.io/CVenglish/Education)
+### Education  ](https://elianawassermann.github.io/CVenglish/Education)
 
 **Doctor in agriculture** University of Buenos Aires, 01-2012 to 04-2017
 
