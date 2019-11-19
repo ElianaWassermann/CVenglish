@@ -48,7 +48,7 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="50"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30"/> Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
+### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30"/> Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
 
 I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
 R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform
