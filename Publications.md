@@ -1,7 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="40"/>
-
-## Publications
+## <img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30"/> Publications
 
 ### Journal publications
 
