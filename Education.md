@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="40"/>
 
-# Education
+
+# <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="20"/>Education
 
 ## Ph.D. in Agricultural Sciences, January 2012- March 2017
 
