@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="40"/>
-
-# Research Experience
+# <img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30"/> Research Experience
 
 [<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
 
