@@ -18,7 +18,7 @@
 
 
 
-### [Education  <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVenglish/Education)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education  ](https://elianawassermann.github.io/CVenglish/Education)
 
 **Doctor in agriculture** University of Buenos Aires, 01-2012 to 04-2017
 
@@ -48,9 +48,9 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 ### [Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
-<img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="400"/>
 
-<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="30"/>
+<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35"/>
 
 ### [Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
@@ -67,6 +67,6 @@ R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Mic
 
 <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
-<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="20"/>
+<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/>
 
 ### [References](https://elianawassermann.github.io/CVenglish/References)
