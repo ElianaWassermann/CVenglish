@@ -21,17 +21,17 @@
 
 **Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires, 06-2006 to 11-2011
 
-<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30"/> 
 
-### [Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> 
+Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
 
 I recieved a grant from the national and research council of Argentina to develope my posdoctoral investigations.
 
 Also I achived two grants in order to achive my PhD from the national and research council of Argentina and the National Agency of Science and Technology Promotion.
 
-<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30"/> 
+ 
 
-### [Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
 
 **Posdoctoral Fellow** CONICET, 01-2018 to 03-2020
 
@@ -41,23 +41,21 @@ I work with plant DNA analysis. I performed data analysis with R software and a 
 
 I analyzed the molecular and virulence diversity of the causal agent of one of the most important tomato bacterial diseases. To accomplish this I used R and Arlequin software
 
-<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30"/>
 
-### [Publications](https://elianawassermann.github.io/CVenglish/Publications)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>
+Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
 <img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="400"/>
 
-<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35"/>
-
-### [Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/>Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
 **Assistant Professor** University of Buenos Aires, 03-2018 continuing
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
-<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30"/>
 
-### [Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
+
+### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
 
 I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
 R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform
