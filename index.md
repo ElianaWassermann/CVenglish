@@ -60,6 +60,4 @@ R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Mic
 
 <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
-<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/>
-
 ### <img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/>[References](https://elianawassermann.github.io/CVenglish/References)
