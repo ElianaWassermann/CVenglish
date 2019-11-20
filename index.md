@@ -15,15 +15,14 @@
 
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="50"/>](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf) Summarized CV [PDF](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf)
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>Education](https://elianawassermann.github.io/CVenglish/Education)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education](https://elianawassermann.github.io/CVenglish/Education)
 
 **Doctor in agriculture** University of Buenos Aires, 01-2012 to 04-2017
 
 **Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires, 06-2006 to 11-2011
 
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> 
-Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
 
 I recieved a grant from the national and research council of Argentina to develope my posdoctoral investigations.
 
@@ -42,8 +41,7 @@ I work with plant DNA analysis. I performed data analysis with R software and a 
 I analyzed the molecular and virulence diversity of the causal agent of one of the most important tomato bacterial diseases. To accomplish this I used R and Arlequin software
 
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>
-Publications](https://elianawassermann.github.io/CVenglish/Publications)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
 <img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="400"/>
 
@@ -64,4 +62,4 @@ R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Mic
 
 <img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/>
 
-### [References](https://elianawassermann.github.io/CVenglish/References)
+### <img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/>[References](https://elianawassermann.github.io/CVenglish/References)
