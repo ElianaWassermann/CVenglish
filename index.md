@@ -45,7 +45,7 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
-<img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="400"/>
+<img src="https://user-images.githubusercontent.com/57723790/69349304-47d3b900-0c56-11ea-8c02-6fd50b2859e1.png" alt="drawing" width="500"/>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
