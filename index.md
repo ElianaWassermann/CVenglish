@@ -2,10 +2,11 @@
 
 # Eliana Wassermann
 
-<img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
-
 ### wasserma@agro.uba.ar
 
+
+
+<img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="60"/>](https://www.linkedin.com/in/eliana-wassermann-2ba541a/) 
 
