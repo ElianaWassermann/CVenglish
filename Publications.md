@@ -2,11 +2,16 @@
 
 ### Journal publications
 
-**Wassermann E**, Montecchia MS, Garaventa V, Correa OS, Romero MA. 2018, Virulence and pCM1 plasmid status are related to BOX-PCR fingerprint type in strains that cause bacterial wilt and canker of tomato in Argentina. *Plant Pathology* (accepted for its publication)
+**Wassermann E.**, Montecchia M. S., Garaventa V., Correa O. S., Romero M. A. 2018, Virulence and pCM1 plasmid status are related to BOX-PCR fingerprint type in strains that cause bacterial wilt and canker of tomato in Argentina. *Plant Pathology* (accepted for its publication)
 
-**Wassermann, E**., Montecchia, M. S., Correa, O. S., Vega, D., & Romero, A. M. (2017). *Clavibacter michiganensis* subsp. *michiganensis* strains virulence and genetic diversity. A first study in Argentina. *European Journal of Plant Pathology*, 149(1), 35–42. https://doi.org/10.1007/s10658-017-1159-z
+Vega D., **Wassermann E.**, Seoane M. B., Romero A. M. (in progress) Debris decomposition and temperature predict survival of Clavibacter michiganensis subsp. michiganensis in tomato residues. 
+
+**Wassermann, E**., Montecchia, M. S., Correa, O. S., Vega, D., & Romero, A. M. 2017, *Clavibacter michiganensis* subsp. *michiganensis* strains virulence and genetic diversity. A first study in Argentina. *European Journal of Plant Pathology*, 149(1), 35–42. https://doi.org/10.1007/s10658-017-1159-z
+
+Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreira C. J. 2016, Sustainability and Human Rights: an approach from the new information and communication technologies in the university. *Electronic magazine of didactics and higher education*, 11, 1-15. ISSN: 1853-3159 http://ojs.cbc.uba.ar/index.php/redes/article/view/69 (Spanish)
 
 ### Book Chapters
+
 **Wassermann, E**; Millenium Development Goals and University. In Humans Rights, Environment and Development: Millenium Goals, 2016. University of Buenos Aires, School of Agriculture Editors. 
 
 **Wassermann, E**; Correa, OS; Romero. AM. Virulence Gene Presence in Clavibacter michiganensis subsp. michiganensis Strains, 2013. Third Conference of the Agriculture and Environmental Bioscience Investigation Institute, ISBN 978-987-29338-2-1 
@@ -14,6 +19,8 @@
 **Wassermann E**, Villalba Villasboa DE, Aguilera NG, Sánchez ME, De Gracia JN, Montecchia MS, Soria MA, Vogrig JA, Carrera BV. Soil Community Level Metabolic Profiles in Grazed and Non-Grazed Soils in Parque Nacional Los Cardones, VII Technical and Scientific National Conference of Soil Biology and Nitrogen Fixation, 2010. ISBN 978-950-554-691-6
 
 ### Conference Abstracts
+
+**Wassermann, E**; Souto CP; Sede SM. “Variability and population genetic structure of *Larrea divaricata* (Zygophyllaceae). 2019. III Argentine Meeting of Evolutionary Biology. Research Group in Evolutionary Biology (GIBE). (https://02c1ef8d-2c01-404f-b514-c1a5ebb88e37.filesusr.com/ugd/5f4c67_14edfd4d9b21411f846619ebd7e38b76.pdf)
 
 **Wassermann, E**; Marcela MS; Correa, OS; Romero. AM. “Population Structure and Genetic Characterization of Virulence Factors in *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt”, Agricultural Specific Problems Workshop: Vegetal Pathology, Buenos Aires 2016. 
 
