@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="30"/>
 
-# Eliana Wassermann <img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
+# Eliana Wassermann, PhD <img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
 
 
 
@@ -19,7 +19,7 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education](https://elianawassermann.github.io/CVenglish/Education)
 
-**Doctor in agriculture** University of Buenos Aires, 01-2012 to 04-2017
+**PhD in agricultural science** University of Buenos Aires, 01-2012 to 04-2017
 
 **Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires, 06-2006 to 11-2011
 
@@ -38,7 +38,7 @@ Also I achived two grants in order to achive my PhD from the national and resear
 
 I work with plant DNA analysis. I performed data analysis with R software and a variety of Python based software. Also, DNA purification, amplification and sequence analysis.
 
-**Doctoral Candidate** University of Buenos Aires, 01-2012 to 04-2017
+**PhD student** University of Buenos Aires, 01-2012 to 04-2017
 
 I analyzed the molecular and virulence diversity of the causal agent of one of the most important tomato bacterial diseases. To accomplish this I used R and Arlequin software
 
@@ -49,7 +49,7 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/>Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
-**Assistant Professor** University of Buenos Aires, 03-2018 continuing
+**Instructor** University of Buenos Aires, 03-2018 continuing
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
