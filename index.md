@@ -1,11 +1,8 @@
 <img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="30"/>
 
-# Eliana Wassermann
+# Eliana Wassermann <img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
 
 
-
-
-<img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
 
 
 ### wasserma@agro.uba.ar
@@ -15,6 +12,10 @@
 [<img src="https://user-images.githubusercontent.com/57723790/69147946-f094e380-0ab1-11ea-9fd3-b652f0ddb24c.png" alt="drawing" width="35"/>](https://scholar.google.com.ar/citations?hl=es&user=KC5cwPQAAAAJ&view_op=list_works&gmla=AJsN-F4dhu1_XFYiDG1GXHI9VeqQOmQ_3rTsWqOWdXzuY5t0zDBxVXgO06A3wljw5udVHnbQjt6la53ItAd-kpzXd4KNp7WrWk1SDMIB6KcvfiAfPDBsz04)
 
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="35"/>](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf) Summarized CV [PDF](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf)
+
+[<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="35"/>](https://github.com/ElianaWassermann/CVenglish/files/3855781/CV_summaryb.pdf) Complete CV [PDF](https://github.com/ElianaWassermann/CVenglish/files/.pdf)
+
+
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education](https://elianawassermann.github.io/CVenglish/Education)
 
