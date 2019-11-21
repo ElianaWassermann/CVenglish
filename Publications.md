@@ -12,9 +12,11 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 ### Book Chapters
 
-**Wassermann, E**; Millenium Development Goals and University. In Humans Rights, Environment and Development: Millenium Goals, 2016. University of Buenos Aires, School of Agriculture Editors. 
+**Wassermann E**, Perelman S. Memory spaces in the School of Agriculture of the University of Buenos Aires. Human Rights and Higher Education: Policy, practices and devices 100 years after university reform. 2018, Paraná, UADER. 
 
-**Wassermann, E**; Correa, OS; Romero. AM. Virulence Gene Presence in Clavibacter michiganensis subsp. michiganensis Strains, 2013. Third Conference of the Agriculture and Environmental Bioscience Investigation Institute, ISBN 978-987-29338-2-1 
+**Wassermann E**; Millenium Development Goals and University. In Humans Rights, Environment and Development: Millenium Goals, 2016. University of Buenos Aires, School of Agriculture Editors. 
+
+**Wassermann, E**, Correa OS, Romero. AM. Virulence Gene Presence in Clavibacter michiganensis subsp. michiganensis Strains, 2013. Third Conference of the Agriculture and Environmental Bioscience Investigation Institute, ISBN 978-987-29338-2-1 
 
 **Wassermann E**, Villalba Villasboa DE, Aguilera NG, Sánchez ME, De Gracia JN, Montecchia MS, Soria MA, Vogrig JA, Carrera BV. Soil Community Level Metabolic Profiles in Grazed and Non-Grazed Soils in Parque Nacional Los Cardones, VII Technical and Scientific National Conference of Soil Biology and Nitrogen Fixation, 2010. ISBN 978-950-554-691-6
 
@@ -39,6 +41,8 @@ Logegaray V.; **Wassermann E.**; Sorlino D.; Gelabert C.; Gambino S.; Rositano F
 Sorlino D.; Durand P.; Logegaray V.; Gambino S.; Borsak J.; **Wassermann E.**; Gelabert C.; Rositano F. “Moodle Use In A Human Rights Course At The School Of Agriculture”, Communication and Teaching Technologies Virtual Reunion. Argentina. Buenos Aires. 2012. 
 
 Tosi, M, **Wassermann, E**, Montecchia, MS, Soria, MA, Carbone Carneiro, MA, Correa OS. “Soil Microbial Communities from Argentinian Yungas as Affected by Agricultural Activity”, XLVI Biochemistry and Biological Investigation Argentine Society Annual Reunion. Argentina. Puerto Madryn. ISSN 0327.9545 (Print), ISSN 1667 – 5746 (Electronic) 2010.
+
+<img src="https://user-images.githubusercontent.com/57723790/69349304-47d3b900-0c56-11ea-8c02-6fd50b2859e1.png" alt="drawing" width="500" aligment="center"/>
 
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
 
