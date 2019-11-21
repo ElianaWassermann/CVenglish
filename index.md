@@ -43,11 +43,11 @@ I work with plant DNA analysis. I performed data analysis with R software and a 
 I analyzed the molecular and virulence diversity of the causal agent of one of the most important tomato bacterial diseases. To accomplish this I used R and Arlequin software
 
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>Publications](https://elianawassermann.github.io/CVenglish/Publications)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Publications](https://elianawassermann.github.io/CVenglish/Publications)
 
 <img src="https://user-images.githubusercontent.com/57723790/69173944-97dc3f80-0adf-11ea-8c98-52d811f2a01e.png" alt="drawing" width="400"/>
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/>Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
 **Instructor** University of Buenos Aires, 03-2018 continuing
 
@@ -55,11 +55,11 @@ I have given courses in the area of Plant Genetics, Microbiology, and Human Righ
 
 
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/>Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
+### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Technical skills & Languages](https://elianawassermann.github.io/CVenglish/Skills_Languages)
 
 I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
 R team core, GraphPad Prism, statistical and graphic and analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform
 
 <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
-### <img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/>[References](https://elianawassermann.github.io/CVenglish/References)
+### [<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> References](https://elianawassermann.github.io/CVenglish/References)
