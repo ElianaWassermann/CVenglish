@@ -19,10 +19,9 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education](https://elianawassermann.github.io/CVenglish/Education)
 
-**PhD in agricultural science** University of Buenos Aires, 01-2012 to 04-2017
+**01-2012 to 04-2017, PhD in agricultural science** University of Buenos Aires
 
-**Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires, 06-2006 to 11-2011
-
+**06-2006 to 11-2011, Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
 
@@ -34,11 +33,11 @@ Also I achived two grants in order to achive my PhD from the national and resear
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Research experience](https://elianawassermann.github.io/CVenglish/ResearchExperience)
 
-**Posdoctoral Fellow** CONICET, 01-2018 to 03-2020
+**01-2018 to 03-2020, Posdoctoral Fellow** CONICET
 
 I work with plant DNA analysis. I performed data analysis with R software and a variety of Python based software. Also, DNA purification, amplification and sequence analysis.
 
-**PhD student** University of Buenos Aires, 01-2012 to 04-2017
+**01-2012 to 04-2017, PhD student** University of Buenos Aires
 
 I analyzed the molecular and virulence diversity of the causal agent of one of the most important tomato bacterial diseases. To accomplish this I used R and Arlequin software
 
@@ -52,7 +51,7 @@ Blue bars: publication as first author; orange bar: publication as collaborator<
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
-**Instructor** University of Buenos Aires, 03-2018 continuing
+**03-2018 continuing, Instructor** University of Buenos Aires
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
