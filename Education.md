@@ -2,7 +2,7 @@
 
 # <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education
 
-## Ph.D. in Agricultural Sciences, January 2012- March 2017
+## January 2012- March 2017, Ph.D. in Agricultural Sciences
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
 
@@ -11,12 +11,12 @@ Department of Agricultural and Environmental Microbiology, School of Agriculture
 
 [Thesis Summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
-## Specialist in Undergraduate Education, June 2013-December 2015
+## June 2013-December 2015, Specialist in Undergraduate Education
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
 
 School of Agriculture, University of Buenos Aires, Argentina 
 
-## Bachelor / MSc. in Agriculture, July 2006-November 2011
+## July 2006-November 2011, Bachelor / MSc. in Agriculture
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia)
 
@@ -28,25 +28,30 @@ School of Agriculture, University of Buenos Aires, Argentina
 
 [<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> COMAHUE National University](https://www.uncoma.edu.ar/)
 
-●	Phylogeographycal analysis tools, 40 hours
+●	Phylogeographycal analysis tools, 40 hours, june 2019
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> School of Agriculture, University of Buenos Aires](http://epg.agro.uba.ar/)
 
-●	Hierarchical Data in Environmental Science: Collection and Analysis in R, 48 hours
+●	Statistical Methodology (modules II, IV and V), 96 hours, June 2013, september 2014, March 2016
 
-●	Statistical Methodology, 96 hours
+●	Introduction to Geostatistics, 48 hours, October 2014
 
-●	Introduction to Bioinformatics, 40 hours
+●	Preparation and Publication of Scientific Papers, 32 hours, April 2014
 
-●	Descriptive Multivariate Analysis in Biological and Social Research, 32 hours
+●	Hierarchical Data in Environmental Science: Collection and Analysis in R, 48 hours, April 2014
 
-●	Introduction to Molecular Biology, 48 hours
+●	Introduction to Molecular Biology, 48 hours, September 2013
 
-●	Preparation and Publication of Scientific Papers, 32 hours
+●	Descriptive Multivariate Analysis in Biological and Social Research, 40 hours, August 2013
+
+●	Introduction to Bioinformatics, 40 hours, May-June 2013
+
+●	Microbial Ecology, 32 hours, March 2010
+
 
 [<img src="https://user-images.githubusercontent.com/57723790/69008379-7e44c780-0928-11ea-827a-2dc155a36f52.png" alt="drawing" width="120"/> University of Buenos Aires](http://www.uba.ar/)
 
-●	Course in gender thematic, 48 hours
+●	Course in gender thematic, 48 hours, May-June, 2017
 
 
 
