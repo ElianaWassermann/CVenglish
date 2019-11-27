@@ -2,8 +2,7 @@
 
 # <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education
 
-January 2012- March 2017, 
-## Ph.D. in Agricultural Sciences
+## *January 2012- March 2017* Ph.D. in Agricultural Sciences
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
 
