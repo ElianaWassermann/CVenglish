@@ -2,7 +2,7 @@
 
 # <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education
 
-## <font size="tiny" color="violet">January 2012- March 2017</font> Ph.D. in Agricultural Sciences
+## <font color="violet">January 2012- March 2017</font>, Ph.D. in Agricultural Sciences
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
 
@@ -11,12 +11,12 @@ Department of Agricultural and Environmental Microbiology, School of Agriculture
 
 [Thesis summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
-## June 2013-December 2015, Specialist in Undergraduate Education
+## <font color="violet">June 2013-December 2015</font>, Specialist in Undergraduate Education
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
 
 School of Agriculture, University of Buenos Aires, Argentina 
 
-## July 2006-November 2011, Bachelor / MSc. in Agriculture
+## <font color="violet">July 2006-November 2011</font>, Bachelor / MSc. in Agriculture
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia)
 
