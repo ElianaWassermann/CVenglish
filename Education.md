@@ -9,7 +9,7 @@
 Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	
 >Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf)
 
-[Thesis Summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
+[Thesis summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
 ## June 2013-December 2015, Specialist in Undergraduate Education
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
@@ -28,11 +28,11 @@ School of Agriculture, University of Buenos Aires, Argentina
 
 [<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> COMAHUE National University](https://www.uncoma.edu.ar/)
 
-●	Phylogeographycal analysis tools, 40 hours, june 2019
+●	Phylogeographycal analysis tools, 40 hours, June 2019
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> School of Agriculture, University of Buenos Aires](http://epg.agro.uba.ar/)
 
-●	Statistical Methodology (modules II, IV and V), 96 hours, June 2013, september 2014, March 2016
+●	Statistical Methodology (modules II, IV and V), 96 hours, June 2013, September 2014, March 2016
 
 ●	Introduction to Geostatistics, 48 hours, October 2014
 
