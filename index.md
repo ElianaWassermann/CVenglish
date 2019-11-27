@@ -5,7 +5,7 @@
 
 
 
-### wasserma@agro.uba.ar
+### <img src="https://user-images.githubusercontent.com/57723790/69729208-b1474200-1104-11ea-823b-f9e1716b81f2.png" alt="drawing" width="300"/>
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="40"/>](https://www.linkedin.com/in/eliana-wassermann-2ba541a/) 
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="35"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
