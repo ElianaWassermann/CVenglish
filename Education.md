@@ -54,6 +54,11 @@ School of Agriculture, University of Buenos Aires, Argentina
 ●	Course in gender thematic, 48 hours, May-June, 2017
 
 
+-------------------------------------------------------------------------------------------------------------------------------
+
+The University of Buenos Aires (UBA) is considered the best university of Argentina and the National Scientific and Technical Research Council (CONICET) is the second best scientific research institute of Latin America according to [Scimago](https://www.scimagoir.com/rankings.php?country=Latin%20America)
+
+
 
 [<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/CVenglish/)
 
