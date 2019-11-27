@@ -22,7 +22,7 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements](https://elianawassermann.github.io/CVenglish/Achievements)
 
-I recieved a grant from the national and research council of Argentina to develope my posdoctoral investigations.
+I recieved a fellowship from the national and research council of Argentina to develope my posdoctoral investigations.
 
 Also I achived two grants in order to achive my PhD from the national and research council of Argentina and the National Agency of Science and Technology Promotion.
 
