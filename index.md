@@ -5,7 +5,7 @@
 
 
 
-### <img src="https://user-images.githubusercontent.com/57723790/69729481-26b31280-1105-11ea-991f-4c2fde25f218.png" alt="drawing" width="300"/>
+### <img src="https://user-images.githubusercontent.com/57723790/69729481-26b31280-1105-11ea-991f-4c2fde25f218.png" alt="drawing" width="400"/>
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="40"/>](https://www.linkedin.com/in/eliana-wassermann-2ba541a/) 
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="35"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
