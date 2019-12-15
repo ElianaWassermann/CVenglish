@@ -14,13 +14,13 @@ Department of Agricultural and Environmental Microbiology, School of Agriculture
 ## June 2013-December 2015, **Specialist in Undergraduate Education**
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
 
-School of Agriculture, University of Buenos Aires, Argentina 
+[School of Agriculture, University of Buenos Aires, Argentina](https://agro.uba.ar/carrera-docente)
 
 ## July 2006-November 2011, **Bachelor / MSc. in Agriculture**
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia)
 
-School of Agriculture, University of Buenos Aires, Argentina
+[School of Agriculture, University of Buenos Aires, Argentina](https://www.agro.uba.ar/carreras/agronomia)
 >Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization” [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf)
 
 
