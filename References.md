@@ -39,7 +39,7 @@ perelman@agro.uba.ar
 
 ## Gustavo Schrauf, Professor in charge of Genetics studies
 
-[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/catedras/genetica/integrantes)
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Gustavo_Schrauf)
 [<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="60"/>](https://www.linkedin.com/in/gustavo-schrauf-b5535714/?originalSubdomain=ar)
 #### Department of applied biology, School of Agriculture, University of Buenos Aires
