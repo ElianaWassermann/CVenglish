@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="30"/>
 
 # Eliana Wassermann, PhD <img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
-## University Instructor 
 
 
 
@@ -50,7 +49,7 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Teaching experience](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
-**03-2018 continuing, Instructor** University of Buenos Aires
+**03-2018 continuing, Professor** University of Buenos Aires
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
