@@ -24,6 +24,9 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 **Wassermann, E**; Souto CP; Sede SM. “Variability and population genetic structure of *Larrea divaricata* (Zygophyllaceae). 2019. III Argentine Meeting of Evolutionary Biology. Research Group in Evolutionary Biology (GIBE). [PDF](https://02c1ef8d-2c01-404f-b514-c1a5ebb88e37.filesusr.com/ugd/5f4c67_14edfd4d9b21411f846619ebd7e38b76.pdf)
 
+**Wassermann, E**; Correa, OS; Romero. AM. “Pathogenicity genes in *Clavibacter michiganensis* subsp. *michiganensis*:
+are they related to agressiveness?”, 4th Conference of the Argentine Association of Phytopathology, Mendoza 2017. [Poster](https://elianawassermann.github.io/CVenglish/PosterFito2017) 
+
 **Wassermann, E**; Marcela MS; Correa, OS; Romero. AM. “Population Structure and Genetic Characterization of Virulence Factors in *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt”, Agricultural Specific Problems Workshop: Vegetal Pathology, Buenos Aires 2016. 
 
 **Wassermann, E**; Marcela MS; Correa, OS; Romero. AM.  “Tomato Bacterial Canker: A study on *Clavibacter michiganensis* subsp. *michiganensis* Genetic Diversity” III Agricultural and Environmental Argentine Conference, Buenos Aires 2015. [Poster](https://elianawassermann.github.io/CVenglish/PosterCAMAYA2015) 
