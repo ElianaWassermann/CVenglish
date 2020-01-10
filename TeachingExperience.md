@@ -1,22 +1,22 @@
 # <img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="40"/> Teaching experience
-[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="100"/>](https://agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="100"/> <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/)
 
 School of Agriculture, University of Buenos Aires.
 
 
 ### Teaching assistant,	2008-continuing
 
-[Department of Applied Biology](https://agro.uba.ar/departamentos/biologia)
+[Department of Applied Biology <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/departamentos/biologia)
 
 Courses:
 
-[Genetics](https://agro.uba.ar/catedras/genetica): 2018-continuing
+[Genetics <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/catedras/genetica): 2018-continuing
 
 ●	Genetics and plant breeding
 
 ●	Genetic's applications 
 
-[Microbiology](https://agro.uba.ar/catedras/microbiologia_agricola): 2008-2018
+[Microbiology <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/catedras/microbiologia_agricola): 2008-2018
 
 ●	Agriculture and Environmental Microbiology
 
@@ -28,7 +28,7 @@ Courses:
 
 ●	Microbiological Techniques Applied To The Study Of Agro-Ecosystems
 
-[Human Rights](https://www.agro.uba.ar/GET/ddhh): 2010-continuing
+[Human Rights <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.agro.uba.ar/GET/ddhh): 2010-continuing
 
 ●	Human Rights
 
@@ -36,7 +36,7 @@ Courses:
 ### Mentoring Experience, 	2016-2017
 
 #### Co-direction of Valeria Soledad Garaventta’s BSc dissertation.
-Title: Evaluation of the aggressiveness of *Clavibacter michiganensis* subsp. *michiganensis*, causing agent of the bacterial canker of tomato, from the horticultural belt of Buenos Aires-La Plata [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854840/2017garaventavaleriasoledad.pdf)
+Title: Evaluation of the aggressiveness of *Clavibacter michiganensis* subsp. *michiganensis*, causing agent of the bacterial canker of tomato, from the horticultural belt of Buenos Aires-La Plata [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854840/2017garaventavaleriasoledad.pdf)
 
 #### Taught and supervised four students during undergraduate research projects on bacterial phytopathogenicity studies.	
 
