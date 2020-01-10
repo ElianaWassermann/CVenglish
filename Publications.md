@@ -26,7 +26,7 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 **Wassermann, E**; Marcela MS; Correa, OS; Romero. AM. “Population Structure and Genetic Characterization of Virulence Factors in *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt”, Agricultural Specific Problems Workshop: Vegetal Pathology, Buenos Aires 2016. 
 
-**Wassermann, E**; Marcela MS; Correa, OS; Romero. AM.  “Tomato Bacterial Canker: A study on *Clavibacter michiganensis* subsp. *michiganensis* Genetic Diversity” III Agricultural and Environmental Argentine Conference, Buenos Aires 2015. 
+**Wassermann, E**; Marcela MS; Correa, OS; Romero. AM.  “Tomato Bacterial Canker: A study on *Clavibacter michiganensis* subsp. *michiganensis* Genetic Diversity” III Agricultural and Environmental Argentine Conference, Buenos Aires 2015. [Poster](https://elianawassermann.github.io/CVenglish/PosterCAMAYA2015) 
 
 **Wassermann, E**; Correa, OS; Romero. AM. “*Clavibacter michiganensis* subsp. *michiganensis* Population structure in four districts of the Buenos Aires-La Plata Green Belt” XV Argentine Phytosanitary Conference, Santa Fe 2015. 
 
@@ -34,7 +34,7 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 **Wassermann, E**; Correa, OS; Romero. AM. “*Clavibacter michiganensis* subsp. *michiganensis* Population Structure in Two Main Tomato (*Solanum lycopersicum* L.) Production Zones Of Argentina”, XVII Latin-American Phytopathology Conference and XXII Peruvian Phytopathology Congress. Chiclayo, Lambayeque, Perú, 2013. 
 
-**Wassermann, E**; Romero. AM. “Comparison of Three Inoculation Methodologies for *Clavibacter michiganensis* subsp. *michiganensis* Aggressiveness Characterization”, XXXVI Argentine Horticultural Conference of the Argentine Association of Horticulture. Tucuman. 2013. ISBN 978-987-99004-1-3. [Poster](https://github.com/ElianaWassermann/CVenglish/edit/master/Posters.md) 
+**Wassermann, E**; Romero. AM. “Comparison of Three Inoculation Methodologies for *Clavibacter michiganensis* subsp. *michiganensis* Aggressiveness Characterization”, XXXVI Argentine Horticultural Conference of the Argentine Association of Horticulture. Tucuman. 2013. ISBN 978-987-99004-1-3. [Poster](https://elianawassermann.github.io/CVenglish/Posters) 
 
 Logegaray V.; **Wassermann E.**; Sorlino D.; Gelabert C.; Gambino S.; Rositano F.; Borscak J.; Hirschhorn A. “Human Rights History in One Line”, Communication and Teaching Technologies Virtual Reunion. Argentina. Buenos Aires. 2012. 
 
