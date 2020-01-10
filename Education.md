@@ -4,33 +4,33 @@
 
 ## January 2012- March 2017, **Ph.D. in Agricultural Sciences**
 
-[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/>](http://epg.agro.uba.ar/) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 Department of Agricultural and Environmental Microbiology, School of Agriculture, University of Buenos Aires, Argentina	
->Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf)
+>Dissertation title: “Population Structure and Genetic Characterization of Pathogenicity Factors of *Clavibacter michiganensis* subsp. *michiganensis* Strains from Buenos Aires-La Plata Green Belt“ [PDF](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 [Thesis summary](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
 ## June 2013-December 2015, **Specialist in Undergraduate Education**
-[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://agro.uba.ar/carrera-docente) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
-[School of Agriculture, University of Buenos Aires, Argentina](https://agro.uba.ar/carrera-docente)
+[School of Agriculture, University of Buenos Aires, Argentina](https://agro.uba.ar/carrera-docente) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 ## July 2006-November 2011, **Bachelor / MSc. in Agriculture**
 
-[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia)
+[<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 [School of Agriculture, University of Buenos Aires, Argentina](https://www.agro.uba.ar/carreras/agronomia)
->Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization” [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf)
+>Dissertation title: “Northwest Argentine Bacterial Community Metabolic Characterization” [PDF](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 
 ## **Graduate Courses Taken**
 
-[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> COMAHUE National University](https://www.uncoma.edu.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> COMAHUE National University](https://www.uncoma.edu.ar/) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 ●	Phylogeographycal analysis tools, 40 hours, June 2019
 
-[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> School of Agriculture, University of Buenos Aires](http://epg.agro.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> School of Agriculture, University of Buenos Aires](http://epg.agro.uba.ar/) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 ●	Statistical Methodology (modules II, IV and V), 96 hours, June 2013, September 2014, March 2016
 
@@ -49,7 +49,7 @@ Department of Agricultural and Environmental Microbiology, School of Agriculture
 ●	Microbial Ecology, 32 hours, March 2010
 
 
-[<img src="https://user-images.githubusercontent.com/57723790/69008379-7e44c780-0928-11ea-827a-2dc155a36f52.png" alt="drawing" width="120"/> University of Buenos Aires](http://www.uba.ar/)
+[<img src="https://user-images.githubusercontent.com/57723790/69008379-7e44c780-0928-11ea-827a-2dc155a36f52.png" alt="drawing" width="120"/> University of Buenos Aires](http://www.uba.ar/) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 ●	Course in gender thematic, 48 hours, May-June, 2017
 
