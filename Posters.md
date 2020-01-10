@@ -1,1 +1,1 @@
-[<img src="https://user-images.githubusercontent.com/57723790/69011792-03da6e80-094d-11ea-9b0f-3a5ad0b559fe.png" alt="drawing" width="100"/>](https://github.com/ElianaWassermann/CVenglish/files/3855949/ASAHO2013.pdf)
+[<img src="https://user-images.githubusercontent.com/57723790/69011792-03da6e80-094d-11ea-9b0f-3a5ad0b559fe.png" alt="drawing" width="1000"/>](https://github.com/ElianaWassermann/CVenglish/files/3855949/ASAHO2013.pdf)
