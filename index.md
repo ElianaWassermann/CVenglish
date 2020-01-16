@@ -49,7 +49,7 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Teaching experience <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
-**03-2018 continuing, Professor** University of Buenos Aires
+**03-2018 continuing, Assistant Professor** University of Buenos Aires
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
