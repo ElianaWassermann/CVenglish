@@ -4,7 +4,7 @@
 School of Agriculture, University of Buenos Aires.
 
 
-### Teaching assistant,	2008-continuing
+### Lecturer/ Professor assistant,	2008-continuing
 
 [Department of Applied Biology <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/departamentos/biologia)
 
