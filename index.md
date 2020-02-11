@@ -7,7 +7,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/57723790/69729481-26b31280-1105-11ea-991f-4c2fde25f218.png" alt="drawing" width="320"/>
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="40"/>](https://www.linkedin.com/in/eliana-wassermann-2ba541a/) 
+[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="40"/>](https://www.linkedin.com/in/elianawassermann) 
 [<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="35"/>](https://www.researchgate.net/profile/Eliana_Wassermann)
 [<img src="https://user-images.githubusercontent.com/57723790/69147946-f094e380-0ab1-11ea-9fd3-b652f0ddb24c.png" alt="drawing" width="35"/>](https://scholar.google.com.ar/citations?hl=es&user=KC5cwPQAAAAJ&view_op=list_works&gmla=AJsN-F4dhu1_XFYiDG1GXHI9VeqQOmQ_3rTsWqOWdXzuY5t0zDBxVXgO06A3wljw5udVHnbQjt6la53ItAd-kpzXd4KNp7WrWk1SDMIB6KcvfiAfPDBsz04)
 
