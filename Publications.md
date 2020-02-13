@@ -2,7 +2,7 @@
 
 ### Journal publications
 
-**Wassermann E.**, Montecchia M. S., Garaventa V., Correa O. S., Romero M. A. 2018, Virulence and pCM1 plasmid status are related to BOX-PCR fingerprint type in strains that cause bacterial wilt and canker of tomato in Argentina. *Plant Pathology* (in press)
+**Wassermann E.**, Montecchia M. S., Garaventa V., Correa O. S., Romero M. A. 2018, Virulence and pCM1 plasmid status are related to BOX-PCR fingerprint type in strains that cause bacterial wilt and canker of tomato in Argentina. *Plant Pathology* (in press). DOI: 10.1111/ppa.13163
 
 Vega D., **Wassermann E.**, Seoane M. B., Romero A. M. (in progress) Debris decomposition and temperature predict survival of Clavibacter michiganensis subsp. michiganensis in tomato residues. 
 
