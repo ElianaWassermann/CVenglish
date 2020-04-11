@@ -16,7 +16,7 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 **Wassermann E**; Millenium Development Goals and University. In Humans Rights, Environment and Development: Millenium Goals, 2016. University of Buenos Aires, School of Agriculture Editors. 
 
-**Wassermann, E**, Correa OS, Romero. AM. Virulence Gene Presence in Clavibacter michiganensis subsp. michiganensis Strains, 2013. Third Conference of the Agriculture and Environmental Bioscience Investigation Institute, ISBN 978-987-29338-2-1 
+**Wassermann, E**, Correa OS, Romero. AM. Virulence Gene Presence in *Clavibacter michiganensis* subsp. *michiganensis* Strains, 2013. Third Conference of the Agriculture and Environmental Bioscience Investigation Institute, ISBN 978-987-29338-2-1 
 
 **Wassermann E**, Villalba Villasboa DE, Aguilera NG, Sánchez ME, De Gracia JN, Montecchia MS, Soria MA, Vogrig JA, Carrera BV. Soil Community Level Metabolic Profiles in Grazed and Non-Grazed Soils in Parque Nacional Los Cardones, VII Technical and Scientific National Conference of Soil Biology and Nitrogen Fixation, 2010. ISBN 978-950-554-691-6
 
