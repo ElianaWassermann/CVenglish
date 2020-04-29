@@ -37,7 +37,7 @@ are they related to agressiveness?”, 4th Conference of the Argentine Associati
 
 **Wassermann, E**; Correa, OS; Romero. AM. “*Clavibacter michiganensis* subsp. *michiganensis* Population Structure in Two Main Tomato (*Solanum lycopersicum* L.) Production Zones Of Argentina”, XVII Latin-American Phytopathology Conference and XXII Peruvian Phytopathology Congress. Chiclayo, Lambayeque, Perú, 2013. 
 
-**Wassermann, E**; Romero. AM. “Comparison of Three Inoculation Methodologies for *Clavibacter michiganensis* subsp. *michiganensis* Aggressiveness Characterization”, XXXVI Argentine Horticultural Conference of the Argentine Association of Horticulture. Tucuman. 2013. ISBN 978-987-99004-1-3. [Poster](https://elianawassermann.github.io/CVenglish/Posters) 
+**Wassermann, E**; Romero. AM. “Comparison of Three Inoculation Methodologies for *Clavibacter michiganensis* subsp. *michiganensis* Aggressiveness Characterization”, XXXVI Argentine Horticultural Conference of the Argentine Association of Horticulture. Tucuman. 2013. ISBN 978-987-99004-1-3. [Poster](https://elianawassermann.github.io/CVenglish/Poster2013a) 
 
 Logegaray V.; **Wassermann E.**; Sorlino D.; Gelabert C.; Gambino S.; Rositano F.; Borscak J.; Hirschhorn A. “Human Rights History in One Line”, Communication and Teaching Technologies Virtual Reunion. Argentina. Buenos Aires. 2012. 
 
