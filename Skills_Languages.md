@@ -16,7 +16,7 @@
 
 ●	Applied microbiology
 
-●	Software: R team core, statistical software; GelCompar II v. 6.5 (Applied Maths NV); GraphPad Prism, statistical and graphic analysis; Microsoft Office and Open Office packages; Moodle learning platform
+●	Software: SQL, Python, RedCAP, Jupyter, R team core, statistical software; GelCompar II v. 6.5 (Applied Maths NV); GraphPad Prism, statistical and graphic analysis; Microsoft Office and Open Office packages; Moodle learning platform
 
 
 
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> English: Advanced skills
 
-<img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/> French: Basic skills
+<img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/> French: Intermediate skills
 
 <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/> Italian: Basic skills
 
