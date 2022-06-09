@@ -1,6 +1,16 @@
 # <img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="40"/> Research Experience
 
+[![image](https://user-images.githubusercontent.com/57723790/172812709-58b6b183-eeff-479f-8342-29df2ad0ea43.png)](https://eds.aphp.fr/)
+
+
+
+# Research Engineer and Data Analyst
+## Entrepôt de Données de Santé, URC-Est, hôpital St Antoine, Assistance Publique - Hôpitaux de Paris, Aug 2020 - Present 
+
+I do statistical analysis of medical data. In order to achieve this I manage databases and construct data frames using SQL, Python and R in a Jupyter environment.
+
 [<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
+
 
 ## Postdoctoral fellow,	2018-2020
 ### Darwinion Botanical Institute (IBODA; CONICET) [link](http://www.darwin.edu.ar/)
