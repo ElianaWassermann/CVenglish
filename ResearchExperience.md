@@ -4,8 +4,8 @@
 
 
 
-# Research Engineer and Data Analyst
-### Entrepôt de Données de Santé, URC-Est, hôpital St Antoine, Assistance Publique - Hôpitaux de Paris, Aug 2020 - Present 
+## Research Engineer and Data Analyst, Aug 2020 - Present
+### Entrepôt de Données de Santé, URC-Est, hôpital St Antoine, Assistance Publique - Hôpitaux de Paris 
 
 I do statistical analysis of medical data. In order to achieve this I manage databases and construct data frames using SQL, Python and R in a Jupyter environment.
 
