@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="30"/>
 
-# Eliana Wassermann, PhD <img src="https://user-images.githubusercontent.com/57723790/80808228-5dfb8300-8bbf-11ea-98a0-060a465abc59.jpg" alt="drawing" width="200" align="right"/>
+# Eliana Wassermann, PhD <img src="7A1B18BE-E562-457F-9656-8522272924E6.jpeg" alt="drawing" width="200" align="right"/>
 
 
 
