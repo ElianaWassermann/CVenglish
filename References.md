@@ -4,8 +4,8 @@
 ## Gustavo Schrauf, Professor in charge of Genetics studies
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/catedras/genetica/integrantes)
-[<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Gustavo_Schrauf)
-[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="60"/><img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.linkedin.com/in/gustavo-schrauf-b5535714/?originalSubdomain=ar)
+[ResearchGate](https://www.researchgate.net/profile/Gustavo_Schrauf)
+[LinkedIn](https://www.linkedin.com/in/gustavo-schrauf-b5535714/?originalSubdomain=ar)
 
 #### Department of applied biology, School of Agriculture, University of Buenos Aires
 (+5411) 5287-0067 
@@ -14,8 +14,8 @@ gschrauf@agro.uba.ar
 ## Marcela Gally, Professor and Dean of the School of Agriculture of the University of Buenos Aires
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/autoridades/)
-[<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/>](https://www.researchgate.net/profile/Marcela_Gally)
-[<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.northernlightspr.com%2Fwp-content%2Fuploads%2F2015%2F08%2FLinkedIn.png&f=1&nofb=1" alt="drawing" width="60"/><img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.linkedin.com/in/marcela-gally-b9883a67/?originalSubdomain=ar)
+[ResearchGate](https://www.researchgate.net/profile/Marcela_Gally)
+[LinkedIn](https://www.linkedin.com/in/marcela-gally-b9883a67/?originalSubdomain=ar)
 
 #### Department of vegetal production, School of Agriculture, University of Buenos Aires
 (+5411)  5287-0042 
@@ -25,7 +25,7 @@ mgally@agro.uba.ar
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/)
 [<img src="https://user-images.githubusercontent.com/57723790/69008471-ad0f6d80-0929-11ea-8938-e558cd85ad0c.png" alt="drawing" width="220"/>](http://www.ifeva.edu.ar/es/miembros/perelman.html)
-[<img src="https://campuspress.yale.edu/cnspy/files/2016/06/GBfhn7j7-1xth4vd.png" alt="drawing" width="50"/><img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.researchgate.net/profile/Susana_Perelman2)
+[ResearchGate](https://www.researchgate.net/profile/Susana_Perelman2)
 
 
 #### Department of quantitative methods and information systems, School of Agriculture, University of Buenos Aires
