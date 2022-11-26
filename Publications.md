@@ -22,7 +22,7 @@ Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreir
 
 ### Conference Abstracts
 
-**Wassermann, E**; Sassone, AB; López A; Morello S. "Geometric morphometrics to assess leaf variation in populations of *Larrea divaricata* Cav. (Zygophyllaceae) from Argentina. Botany 2020. [Abstract in Botany 2020 site](http://www.2020.botanyconference.org/engine/search/index.php?func=detail&aid=370). [Poster](https://elianawassermann.github.io/CVDataScience/PosterBotany)  
+**Wassermann, E**; Sassone, AB; López A; Morello S. "Geometric morphometrics to assess leaf variation in populations of *Larrea divaricata* Cav. (Zygophyllaceae) from Argentina. Botany 2020. [Poster](https://elianawassermann.github.io/CVDataScience/PosterBotany)  
 
 **Wassermann, E**; Souto CP; Sede SM. “Variability and population genetic structure of *Larrea divaricata* (Zygophyllaceae). 2019. III Argentine Meeting of Evolutionary Biology. Research Group in Evolutionary Biology (GIBE). [PDF](https://02c1ef8d-2c01-404f-b514-c1a5ebb88e37.filesusr.com/ugd/5f4c67_14edfd4d9b21411f846619ebd7e38b76.pdf)
 
